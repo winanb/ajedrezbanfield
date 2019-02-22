@@ -1,2 +1,2 @@
 # ajedrezbanfield
-Listado de partidas: https://winanb.github.io/ajedrezbanfield/
+Intentado ejecutar un .html 
