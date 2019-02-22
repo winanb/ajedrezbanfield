@@ -1,2 +1,3 @@
 # ajedrezbanfield
-Listado de partidas
+Plantilla proporcionada por chessbase.com
+Partidas cargadas manualmente
