@@ -1,3 +1,3 @@
 # ajedrezbanfield
-Plantilla proporcionada por chessbase.com
+Plantilla proporcionada por chesstempo.com
 Partidas cargadas manualmente
